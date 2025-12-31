@@ -4,7 +4,7 @@ Interactive 3D igloo website with beautiful animations and sound.
 
 ## 🌐 Live Site
 
-Visit: `https://yourusername.github.io/comment/`
+Visit: `https://rasulov_fx.github.io/comment/`
 
 ## 📦 Files
 
